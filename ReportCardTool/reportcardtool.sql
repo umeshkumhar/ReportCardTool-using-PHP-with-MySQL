@@ -72,7 +72,7 @@ INSERT INTO `stu_info` (`id`, `enrollno`, `sname`, `fname`, `mname`, `branch`, `
 --
 ALTER TABLE `stu_info`
  ADD PRIMARY KEY (`id`), ADD UNIQUE KEY `enrollno` (`enrollno`,`sname`,`branch`), ADD UNIQUE KEY `enrollno_2` (`enrollno`,`semester`,`session`);
-
+ 
 --
 -- AUTO_INCREMENT for dumped tables
 --
