@@ -7,10 +7,6 @@
 Developed By:Umesh Kumhar
 
 https://UmeshKumhar.xyz
-
-
-
-
 ********************************************************** <?php */?>
 <script language="javascript" >
 function fun(msg){
@@ -298,8 +294,4 @@ else
 Developed By:Umesh Kumhar
 
 https://UmeshKumhar.xyz
-
-
-
-
 ********************************************************** <?php */?>
