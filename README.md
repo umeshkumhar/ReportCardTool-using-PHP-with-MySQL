@@ -4,5 +4,5 @@ A simple and easy demonstration for using PHP with MySQL over localhost. This pr
 Just copy the source code to the local server such as WAMP or XAMMP and execute over localhost in web browser.
 link : http://localhost/ReportCardTool
 
-# Blog
-https://UmeshKumhar.xyz
+
+
